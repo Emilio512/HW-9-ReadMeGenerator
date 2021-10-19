@@ -1,0 +1,22 @@
+{
+  "name": "hw-9-readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emilio512/HW-9-ReadMeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emilio512/HW-9-ReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/Emilio512/HW-9-ReadMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
